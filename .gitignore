@@ -1,0 +1,8 @@
+**/bin/*
+*.lo
+*.o
+*.pdf
+*.png
+osu-mbs/osu-micro-benchmarks-8.0b2/config.log
+*.out
+*.csv

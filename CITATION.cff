@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you want to cite this repository, please use this file."
+authors:
+- familiy-names: "Karalus"
+  given-names: "Konrad"
+title: Benchmark suite for MPI 3.0 RMA non-standard cases.
+version: 1.0.0
+date-release: 2026-08-26
+url: "https://github.com/KonradKaralus/mpi-3.0-rma-benchmarks"
