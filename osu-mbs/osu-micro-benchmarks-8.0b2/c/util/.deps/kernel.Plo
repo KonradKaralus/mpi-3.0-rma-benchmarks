@@ -1,0 +1,3 @@
+../../../../c/util/kernel.lo: ../../../../c/util/kernel.cpp \
+ /usr/include/stdc-predef.h
+/usr/include/stdc-predef.h:
