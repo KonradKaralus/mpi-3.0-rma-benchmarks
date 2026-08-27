@@ -13,7 +13,7 @@ for file in req:
     if file not in os.listdir("../osu-micro-benchmarks-8.0b2/c/mpi/one-sided/"):
         print(f"Required file {file} not found in parent directory.")
         exit(1)
-    shutil.copyfile(f"../{file}", file)
+    shutil.copyfile(f"../osu-micro-benchmarks-8.0b2/c/mpi/one-sided/{file}", file)
 
 tex = False
 if len(sys.argv) > 1:
